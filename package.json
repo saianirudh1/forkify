@@ -4,6 +4,8 @@
   "description": "Recipe Finder",
   "main": "index.html",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
