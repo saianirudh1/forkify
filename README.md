@@ -1,5 +1,5 @@
 # forkify
-A web app which searches for a recipes and displays all the required data to prepare the dish.
+A web app which searches for a recipes and displays all the required data to prepare the dish. Access the app here: https://saianirudh-forkify.netlify.app/ 
 
 ### Features
 * Search results for recipes.
